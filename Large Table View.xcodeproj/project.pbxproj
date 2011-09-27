@@ -23,14 +23,14 @@
 		48BCC3B11431FD9A00B70CF1 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		48BCC3B31431FD9A00B70CF1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		48BCC3B51431FD9A00B70CF1 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		48BCC3B91431FD9A00B70CF1 /* Large Table View-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Large Table View-Info.plist"; sourceTree = "<group>"; };
+		48BCC3B91431FD9A00B70CF1 /* Large Table View-Info.plist */ = {isa = PBXFileReference; path = "Large Table View-Info.plist"; sourceTree = "<group>"; };
 		48BCC3BB1431FD9A00B70CF1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		48BCC3BD1431FD9A00B70CF1 /* Large Table View-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Large Table View-Prefix.pch"; sourceTree = "<group>"; };
+		48BCC3BD1431FD9A00B70CF1 /* Large Table View-Prefix.pch */ = {isa = PBXFileReference; path = "Large Table View-Prefix.pch"; sourceTree = "<group>"; };
 		48BCC3BE1431FD9A00B70CF1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		48BCC3C01431FD9A00B70CF1 /* Large_Table_ViewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Large_Table_ViewAppDelegate.h; sourceTree = "<group>"; };
+		48BCC3C01431FD9A00B70CF1 /* Large_Table_ViewAppDelegate.h */ = {isa = PBXFileReference; path = Large_Table_ViewAppDelegate.h; sourceTree = "<group>"; };
 		48BCC3C11431FD9A00B70CF1 /* Large_Table_ViewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Large_Table_ViewAppDelegate.m; sourceTree = "<group>"; };
 		48BCC3C41431FD9A00B70CF1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		48BCC3C61431FD9A00B70CF1 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		48BCC3C61431FD9A00B70CF1 /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
 		48BCC3C71431FD9A00B70CF1 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		48BCC3CA1431FD9A00B70CF1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
